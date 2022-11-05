@@ -3,6 +3,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+//G00380316
+
 public class PassengerTest {
     @Test
     void constructortest(){
