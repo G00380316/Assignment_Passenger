@@ -3,6 +3,7 @@ public class Passenger {
     private int phone, age;
 
     public Passenger(String title, String name, String ID, int phone, int age){
+
     this.age = age;
     this.phone = phone;
     this.ID = ID;
